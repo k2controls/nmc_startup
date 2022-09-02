@@ -1,8 +1,10 @@
 ---
 layout: default
+nav_exclude: true
 ---
-<!--
+
 ## This is index page
+<!--
 
 
 
