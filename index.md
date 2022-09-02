@@ -4,4 +4,5 @@ layout: default
 
 ## test ##
 
-Testing jekyll-theme
+Testing just docs theme
+
