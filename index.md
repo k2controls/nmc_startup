@@ -2,7 +2,9 @@
 layout: default
 ---
 
-## test ##
+## This is index page
+
+<!--
 
 [About](about.html)
 [Process](process.html)
@@ -12,3 +14,4 @@ layout: default
 [FAQ](faq.html)
 [Contact](contact.html)
 
+-->
