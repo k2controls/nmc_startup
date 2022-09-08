@@ -16,9 +16,4 @@ nav_exclude: true
     float: right;
 }
 
-<img
-  align="right"
-  width="100"
-  height="100"
-  src="assets/images/high_five.jpg"
->
+<img align="right" width="100" height="100" src="assets/images/high_five.jpg" >
