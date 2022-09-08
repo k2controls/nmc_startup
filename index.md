@@ -9,6 +9,10 @@ nav_exclude: true
 
 ### NMC Student startups have evolved from select classroom efforts as shared by Matt Gottard in The Rural Edge video. But, with new leadership, the commitment to Experiential Learning, and a focus on innovation, opportunities innovation, entrepreneurship, and startup are expanding across the campus.
 
+<img style="float:right;width:100;height:100" src="assets/images/high_five.jpg" >
+
+<!--
+
 ![image alt >](assets/images/high_five.jpg)
 
 ![Flowers](assets/images/high_five.jpg){: .callout}
@@ -17,4 +21,4 @@ nav_exclude: true
     float: right;
 }
 
-<img align="right" width="100" height="100" src="assets/images/high_five.jpg" >
+-->
