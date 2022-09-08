@@ -11,7 +11,8 @@ nav_exclude: true
 
 ![image alt >](assets/images/high_five.jpg)
 
-![Flowers](assets/images/high_five.jpg){.callout}
+![Flowers](assets/images/high_five.jpg){: .callout}
+
 .callout {
     float: right;
 }
