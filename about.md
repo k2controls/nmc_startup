@@ -5,15 +5,24 @@ nav_order: 1
 ---
 
 
-Traverse City's startup community continues to build momentum, creating new opportunities for business and career growth. Efforts and results are being recognized at both the State and national level as demonstrated by the recently released ["The Rural Edge"](https://ruralinnovation.us/resources/storytelling/rural-edge-traverse-city/) video from the Center on Rural Innovation. 
+# NMC Startup
 
-NMC Student startups have evolved from select classroom efforts as shared by Matt Gottard in The Rural Edge video. But with changes in leadership, the focus on Experiential Learning, and a focus on innovation, opportunities innovation, entrepreneurship, and startup are expanding across the campus.
+## Traverse City's startup community continues to build momentum, creating new opportunities for business and career growth. Efforts and results are being recognized at both the State and national level as demonstrated by the recently released ["The Rural Edge"](https://ruralinnovation.us/resources/storytelling/rural-edge-traverse-city/) video from the Center on Rural Innovation. 
 
-*Our Story
+## NMC Student startups have evolved from select classroom efforts as shared by Matt Gottard in The Rural Edge video. But with changes in leadership, the focus on Experiential Learning, and a focus on innovation, opportunities innovation, entrepreneurship, and startup are expanding across the campus.
+
+**Our Story**
 
 During the past year, efforts were accelerated by the creation of [Northern Michigan Startup Week](assets/sp22/NMSW_follow-up_article.pdf). The production of this event was a collaboration of community partners including 20Fathoms, Newton’s Road, TCNewTech, Northern Michigan Angels, and NMC.  
 
 While NMC supported multiple events including Space Night and Techstars Startup Weekend, the Student Pitch Competition was primary. This competitive event featured four high school presentations followed by five NMC Startup pitches. Nine MFG 291 Startup Seminar students took the City Opera House stage to present their Minimal Viable Products (MVP) and related business plans created during this pilot class.
+
+> **What Is a Startup?** 
+>The term startup refers to a company in the first stages of operations. Startups
+are founded by one or more entrepreneurs who want to develop a product or service
+for which they believe there is demand. These companies generally start with high
+costs and limited revenue, which is why they look for capital from a variety of
+sources such as venture capitalists. 
 
 Northern Michigan Startup Week, the Student Pitch Competition, and the MFG291 Special Topics course were big successes providing an opportunity for NMC to showcase future-focused education along with 
 community partnerships and engagement. Feedback from team mentors, event judges and our startup community was very positive. A post-event survey to attendees resulted in a 4.43 out of 5 rating.
