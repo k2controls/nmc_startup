@@ -9,17 +9,8 @@ nav_exclude: true
 
 <img alt="Student high-five" style="float:right;width:40%;height:auto" src="assets/images/high_five_small.jpg" >
 
-### NMC Student startups have evolved from select classroom efforts as shared by Matt Gottard in The Rural Edge video. But, with new leadership, the commitment to Experiential Learning, and a focus on innovation, opportunities innovation, entrepreneurship, and startup are expanding across the campus.
+### NMC student startups have evolved from select classroom efforts as shared by Matt Goddard in The Rural Edge video. But, with new leadership, the commitment to Experiential Learning, and a focus on innovation, opportunities for entrepreneurship and startup are expanding across the campus.
 
+### *NMC Startup* is an initiative led by Keith Kelly with the goal of creating a Startup culture at NMC that creates opportunities for creative students and supports our local Startup and Tech Hub ecosystem. 
 
-<!--
-
-![image alt >](assets/images/high_five.jpg)
-
-![Flowers](assets/images/high_five.jpg){: .callout}
-
-.callout {
-    float: right;
-}
-
--->
+### See additional details on this site and reach out to [Keith](mailto:kkelly@nmc.edu) with questions or for details on how to participate. 
