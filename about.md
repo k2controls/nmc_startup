@@ -12,8 +12,14 @@ During the past year, area Startup efforts were accelerated by the creation of [
 
 While NMC supported multiple events during the week including Space Night and Techstars Startup Weekend, Friday's Student Pitch Competition was primary. This competitive event featured four high school presentations followed by five NMC Startup pitches. NMC teams created Minimal Viable Products (MVP) and worked with mentors to refine their value proposition. The five minute "Pitch" was refined and presented to the community on stage at the City Opera House. A five minute Q&A period followed each pitch enabling event judges to interact with teams and to award first and second place awards of $1000 and $500.
 
+{: .important }
+> {: .opaque }
+> <div markdown="block">
+> {: .warning }
 > **What Is a Startup?** 
 >The term startup refers to a company in the first stages of operations. Startups are founded by one or more entrepreneurs who want to develop a product or service for which they believe there is demand. These companies generally start with high costs and limited revenue, which is why they look for capital from a variety of sources such as venture capitalists. 
+> </div>
+
 
 Northern Michigan Startup Week, the Student Pitch Competition, and the Special Topics course were big successes providing an opportunity for NMC to showcase future-focused education along with community partnerships and engagement. Feedback from team mentors, event judges and our startup community was very positive. A post-event survey to attendees resulted in a 4.43 out of 5 rating.
 
