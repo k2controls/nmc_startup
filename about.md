@@ -1,17 +1,11 @@
 ---
 layout: default
 title: About
-nav_order: 1
+nav_order: 2
 ---
 
 
-# NMC Startup
-
-## Traverse City's startup community continues to build momentum, creating new opportunities for business and career growth. Efforts and results are being recognized at both the State and national level as demonstrated by the recently released ["The Rural Edge"](https://ruralinnovation.us/resources/storytelling/rural-edge-traverse-city/) video from the Center on Rural Innovation. 
-
-## NMC Student startups have evolved from select classroom efforts as shared by Matt Gottard in The Rural Edge video. But with changes in leadership, the focus on Experiential Learning, and a focus on innovation, opportunities innovation, entrepreneurship, and startup are expanding across the campus.
-
-**Our Story**
+##Our Story
 
 During the past year, efforts were accelerated by the creation of [Northern Michigan Startup Week](assets/sp22/NMSW_follow-up_article.pdf). The production of this event was a collaboration of community partners including 20Fathoms, Newton’s Road, TCNewTech, Northern Michigan Angels, and NMC.  
 
