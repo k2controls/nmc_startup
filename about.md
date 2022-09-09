@@ -29,7 +29,7 @@ The pilot NMC class provided a new experience for NMC students and demonstrated 
 
 NMC Startup is an educational startup. Our goal is to iterate quickly to maximize value to our customer. As we begin year two of the project and plan for spring, we're returning to step one of the [Design Thinking process](https://careerfoundry.com/en/blog/ux-design/design-thinking-process/) with a focus on our customer. Who is the customer? Yes, our broader Startup community, but if NMC Startup is to be a diverse, cross-campus solution, then this iteration must engage more NMC users. 
 
-### Student, teachers, administration - we need to talk to you.
+### _Student, teachers, administration - we need to talk to you._
 
 How do you see innovation, creation, and business value supporting your educational goals? How can a cross-campus startup course or competition fit into program goals and schedules? 
 
