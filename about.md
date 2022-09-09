@@ -3,7 +3,8 @@ layout: default
 title: About
 nav_order: 2
 ---
-##Our Story
+
+## Our Story
 
 During the past year, Startup efforts were accelerated by the creation of [Northern Michigan Startup Week](assets/sp22/NMSW_follow-up_article.pdf). The project was based on the early success of a 2014 Startup Weekend event hosted at Northwestern Michigan College. Keith Kelly of NMC and Bradley Matson of Northern Michigan Angels convened a planning team and [nmsw.co](https://nmsw.co) was born. The final event-filled week was a collaboration of community partners including TCNewTech, 20Fathoms, Newton’s Road, Northern Michigan Angels, and NMC.  
 
