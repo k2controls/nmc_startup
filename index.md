@@ -16,4 +16,5 @@ nav_order: 1
 
 ### See additional details on this site and reach out to [Keith Kelly](mailto:kkelly@nmc.edu) with questions or for information on how to participate. 
 
-<img alt="nmc startup logo" style="align:center;width:200;height:auto;padding:10px;" src="assets/images/nmc_startup_logo.png" >
+
+<img alt="nmc startup logo" style="display:block;margin-left:auto;margin-right:auto;width:300px;height:auto;padding:50px;" src="assets/images/nmc_startup_logo.png" >
