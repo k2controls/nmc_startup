@@ -3,13 +3,11 @@ layout: default
 title: About
 nav_order: 2
 ---
-
-
 ##Our Story
 
-During the past year, efforts were accelerated by the creation of [Northern Michigan Startup Week](assets/sp22/NMSW_follow-up_article.pdf). The production of this event was a collaboration of community partners including 20Fathoms, Newton’s Road, TCNewTech, Northern Michigan Angels, and NMC.  
+During the past year, Startup efforts were accelerated by the creation of [Northern Michigan Startup Week](assets/sp22/NMSW_follow-up_article.pdf). The project was based on the early success of a 2014 Startup Weekend event hosted at Northwestern Michigan College. Keith Kelly of NMC and Bradley Matson of Northern Michigan Angels convened a planning team and [nmsw.co](https://nmsw.co) was born. The final event-filled week was a collaboration of community partners including TCNewTech, 20Fathoms, Newton’s Road, Northern Michigan Angels, and NMC.  
 
-While NMC supported multiple events including Space Night and Techstars Startup Weekend, the Student Pitch Competition was primary. This competitive event featured four high school presentations followed by five NMC Startup pitches. Nine MFG 291 Startup Seminar students took the City Opera House stage to present their Minimal Viable Products (MVP) and related business plans created during this pilot class.
+While NMC supported multiple events during the week including Space Night and Techstars Startup Weekend, Friday's Student Pitch Competition was primary. This competitive event featured four high school presentations followed by five NMC Startup pitches. NMC teams created Minimal Viable Products (MVP) and worked with mentor to refine their value proposition. The five minute "Pitch" was refined and presented to the community on stage at the City Opera House. A five Q&A period followed enabling event judges to interact with teams and to award first and second place awards of $1000 and $500.
 
 > **What Is a Startup?** 
 >The term startup refers to a company in the first stages of operations. Startups
