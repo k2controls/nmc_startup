@@ -15,3 +15,5 @@ nav_order: 1
 ### *NMC Startup* is an initiative with the goal of creating a Startup culture at NMC that creates opportunities for creative students and supports our local Startup and Tech Hub ecosystem. The experience is framed in a spring semester course where student teams identify a problem, work with customers to define a solution, create a minimal viable product or service, and pitch the resulting value proposition to the Startup community.
 
 ### See additional details on this site and reach out to [Keith Kelly](mailto:kkelly@nmc.edu) with questions or for information on how to participate. 
+
+<img alt="nmc startup logo" style="align:center;width:300;height:auto;padding:10px;" src="assets/images/nmc_startup_logo.png" >
