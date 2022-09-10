@@ -38,6 +38,11 @@ nav_order: 6
         <span style="display:inline-block;width:100px;vertical-align:top">04/13/2022</span>
         <span style="display:inline-block;width:400px"><a href="https://www.nmc.edu/about/nmc-stories/success-stories/harnessing-entrepreneurial-energy.html" target="_blank">NMC Success Story: Harnessing entrepreneurial energy</a></span>
     </div>
+        <div style="padding-top:20px">
+        <span style="display:inline-block;width:100px;vertical-align:top">08/08/2021</span>
+        <span style="display:inline-block;width:400px"><a href="assets/media/Drone_startups_fly_higher.pdf" target="_blank">Drone startups fly higher — after altering their paths
+</a></span>
+    </div>
 </div>
 
 
