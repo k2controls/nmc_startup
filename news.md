@@ -26,13 +26,20 @@ nav_order: 6
         <span style="display:inline-block;width:100px;vertical-align:top">05/02/2022</span>
         <span style="display:inline-block;width:400px"><a href="https://www.globenewswire.com/news-release/2022/05/03/2434674/0/en/Aunalytics-Chief-Marketing-Officer-Katie-Horvath-to-Moderate-Panel-Featuring-Founders-Astropreneurs-and-Innovators-at-Northern-Michigan-Startup-Week.html" target="_blank">Aunalytics Chief Marketing Officer Katie Horvath to Moderate Panel Featuring Founders, Astropreneurs, and Innovators at Northern Michigan Startup Week</a></span>
     </div>
-    
-
-
-
-        
-
-    
+    <div style="padding-top:20px">
+        <span style="display:inline-block;width:100px;vertical-align:top">04/27/2022</span>
+        <span style="display:inline-block;width:400px"><a href="https://www.record-eagle.com/news/the_biz/northern-michigan-startup-week-returns/article_009cfd88-af8a-11ec-97da-bbcb5052252a.html" target="_blank">Northern Michigan Startup Week returns</a></span>
+    </div>
+    </div>
+        <div style="padding-top:20px">
+        <span style="display:inline-block;width:100px;vertical-align:top">04/23/2022</span>
+        <span style="display:inline-block;width:400px"><a href="https://www.globalocityservices.com/northern-michigan-startup-week/" target="_blank">Globalocity Interview</a></span>
+    </div>
+    </div>
+        <div style="padding-top:20px">
+        <span style="display:inline-block;width:100px;vertical-align:top">04/13/2022</span>
+        <span style="display:inline-block;width:400px"><a href="https://www.nmc.edu/about/nmc-stories/success-stories/harnessing-entrepreneurial-energy.html" target="_blank">NMC Success Story: Harnessing entrepreneurial energy</a></span>
+    </div>
 </div>
 
 
