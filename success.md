@@ -23,7 +23,7 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 </ul> 
 <h3>Mentor: Abagail McKiernan, Spark in the Dark</h3>
 
-<img alt="team A logo" style="float:left;width:100px;height:auto;padding:10px;" src="assets/success/2022/teamA/teamAlogo.jpg" >
+<img alt="team A logo" style="float:left;width:150px;height:auto;padding:10px;" src="assets/success/2022/teamA/teamAlogo.jpg" >
 
 <img alt="team A product" style="margin:auto;width:200px;height:auto;padding:10px;" src="assets/success/2022/teamA/teamAproduct.jpg" >
 
@@ -49,7 +49,7 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 
 <h3>Mentor: Russell Schindler, SampleServe</h3>
 
-<img alt="team B logo" style="float:left;width:100px;height:auto;padding:10px;" src="assets/success/2022/teamB/teamBlogo.jpg" >
+<img alt="team B logo" style="float:left;width:150px;height:auto;padding:10px;" src="assets/success/2022/teamB/teamBlogo.jpg" >
 
 <img alt="team B product" style="margin:auto;width:200px;height:auto;padding:10px;" src="assets/success/2022/teamB/teamBproduct.jpg" >
 
@@ -72,7 +72,7 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 
 <h3>Mentor: Kevin Clark, Critter Control Inc.</h3>
 
-<img alt="team C logo" style="float:left;width:100px;height:auto;padding:10px;" src="assets/success/2022/teamC/teamClogo.jpg" >
+<img alt="team C logo" style="float:left;width:150px;height:auto;padding:10px;" src="assets/success/2022/teamC/teamClogo.jpg" >
 
 <img alt="team C product" style="margin:auto;width:200px;height:auto;padding:10px;" src="assets/success/2022/teamC/teamCproduct.jpg" >
 
@@ -99,7 +99,7 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 <li>Danelle Brostrom, Traverse City Area Public Schools</li>
 </ul>
 
-<img alt="team D logo" style="float:left;width:100px;height:auto;padding:10px;" src="assets/success/2022/teamD/teamDlogo.jpg" >
+<img alt="team D logo" style="float:left;width:150px;height:auto;padding:10px;" src="assets/success/2022/teamD/teamDlogo.jpg" >
 
 <img alt="team D product" style="margin:auto;width:200px;height:auto;padding:10px;" src="assets/success/2022/teamD/teamDproduct.jpg" >
 
