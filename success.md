@@ -12,21 +12,21 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 
 ---
 
-<div style="height:220px; overflow-y:auto;">
-
-<!-- team A -->
-
+<div><!-- team A -->
 <img alt="team A image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamA/teamA.jpg" >
 
-## Founder: Shelby Bigelow
-- Visual Communications 
-- Art Direction 
-### Mentor: Abagail McKiernan, Spark in the Dark
+<h3>Founder: Shelby Bigelow</h3>
+<ul>
+<li>Visual Communications</li> 
+<li>Art Direction</li>
+</ul> 
+<h3>Mentor: Abagail McKiernan, Spark in the Dark</h3>
 
-<img alt="team A logo" style="width:auto;height:25px;padding:10px;" src="assets/success/2022/teamA/teamAlogo.jpg" >
+<img alt="team A logo" style="float:left;width:100px;height:auto;padding:10px;" src="assets/success/2022/teamA/teamAlogo.jpg" >
 
-### [Pet Tracker Pitch Deck](assets/success/2022/teamA/teamA_pitch.pdf)
+<img alt="team A product" style="margin:auto;width:200px;height:auto;padding:10px;" src="assets/success/2022/teamA/teamAproduct.jpg" >
 
+<a href="assets/success/2022/teamA/teamA_pitch.pdf"><h3>Pet Tracker Pitch Deck</h3></a>
 </div>
 
 ---
@@ -35,49 +35,102 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 <!-- team B -->
 <img alt="team B image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamB/teamB.jpg" >
 
-## Founder: Shelby Satkowiak
-- Marine Technology Major
-- Survey Engineering Minor
-## Co-Founder: Manny McMillian
-- Engineering Technology
-- Unmanned Aerial System
+<h3>Founder: Shelby Satkowiak</h3>
+<ul>
+<li>Marine Technology Major</li>
+<li>Survey Engineering Minor</li>
+</ul>
+<h3>Co-Founder: Manny McMillian</h3>
+<ul>
+<li>Engineering Technology</li>
+<li>Unmanned Aerial Systems</li>
+</ul>
 
-### Mentor: Russell Schindler, SampleServe
+<h3>Mentor: Russell Schindler, SampleServe</h3>
 
-<img alt="team B logo" style="float:left;width:auto;height:25px;padding:10px;" src="assets/success/2022/teamB/teamBlogo.jpg" >
+<img alt="team B logo" style="float:left;width:100px;height:auto;padding:10px;" src="assets/success/2022/teamB/teamBlogo.jpg" >
 
 <img alt="team B product" style="margin:auto;width:200px;height:auto;padding:10px;" src="assets/success/2022/teamB/teamBproduct.jpg" >
 
-### [Rod Leviora Pitch Deck](assets/success/2022/teamB/teamB_pitch.pdf)
+<a href="assets/success/2022/teamB/teamB_pitch.pdf"><h3>Rod Leviora Pitch Deck</h3></a>
 </div>
 
 ---
 
-<div>
-<!-- team C -->
+<div><!-- team C -->
 <img alt="team C image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamC/teamC.jpg" >
 
-## Founder: Alex Groening
-- Industrial Controls & Robotics
-## Co-Founder: Alec Rice
-- Marine Technology
+<h3>Founder: Alex Groening</h3>
+<ul>
+<li>Industrial Controls & Robotics</li>
+</ul>
+<h3>Co-Founder: Alec Rice</h3>
+<ul>
+<li>Marine Technology</li>
+</ul>
 
-### Mentor: Kevin Clark, Critter Control Inc.
+<h3>Mentor: Kevin Clark, Critter Control Inc.</h3>
 
-<img alt="team C logo" style="float:left;width:auto;height:25px;padding:10px;" src="assets/success/2022/teamC/teamClogo.jpg" >
+<img alt="team C logo" style="float:left;width:100px;height:auto;padding:10px;" src="assets/success/2022/teamC/teamClogo.jpg" >
 
 <img alt="team C product" style="margin:auto;width:200px;height:auto;padding:10px;" src="assets/success/2022/teamC/teamCproduct.jpg" >
 
-### [AlAg Pitch Deck](assets/success/2022/teamC/teamC_pitch.pdf)
-
+<a href="assets/success/2022/teamC/teamC_pitch.pdf"><h3>AlAg Pitch Deck</h3></a>
 </div>
 
 ---
+
+<div><!-- team D -->
+<img alt="team D image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamD/teamD.jpg" >
+
+<h3>Founder: Holly Johnson</h3>
+<ul>
+<li>Visual Communications</li>
+</ul>
+<h3>Co-Founder: Chase McMaster</h3>
+<ul>
+<li>Marine Technology</li>
+</ul>
+
+<h3>Mentors</h3>
+<ul>
+<li>David Summers, SCORE Mentors</li>
+<li>Danelle Brostrom, Traverse City Area Public Schools</li>
+</ul>
+
+<img alt="team D logo" style="float:left;width:100px;height:auto;padding:10px;" src="assets/success/2022/teamD/teamDlogo.jpg" >
+
+<img alt="team D product" style="margin:auto;width:200px;height:auto;padding:10px;" src="assets/success/2022/teamD/teamDproduct.jpg" >
+
+<a href="assets/success/2022/teamD/teamD_pitch.pdf"><h3>Align-A-Line Pitch Deck</h3></a>
+</div>
+
+---
+
+<div><!-- team E -->
+<img alt="team E image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamE/teamE.jpg" >
+
+<h3>Founder: Max Streeter</h3>
+<h3>Co-Founder: John Monaghan</h3>
+
+<h3>Mentor: Mark Stephens, Interactive Aerial</h3>
+
+<!--
+<img alt="team E logo" style="float:left;width:100;height:auto;padding:10px;" src="assets/success/2022/teamE/teamElogo.jpg" >
+-->
+
+<img alt="team E product" style="margin:auto;width:300px;height:auto;padding:10px;" src="assets/success/2022/teamE/teamEproduct.jpg" >
+
+<a href="assets/success/2022/teamE/teamE_pitch.pdf"><h3>Pitch Deck</h3></a>
+</div>
+
+---
+
 
 ## Early NMC Sucesses in Startup
 
 
-
+<!--
 ### Derek Smith - Naveego -> Aunalytics -> AWS
 image of derek at tccode
 history
@@ -93,3 +146,4 @@ Prototype in makers, TCNewTech winnner, Recognized during STartup WEek
 
 video NMC - Our Early Startups
 https://www.youtube.com/watch?v=SoatUiGvH1E&list=PLMdErdlfK4GYFlPe0ztt65bBFgW_kFXXe&index=2&ab_channel=piRoverBuildswithK2
+-->
