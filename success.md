@@ -50,6 +50,27 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 
 ---
 
+<div>
+<!-- team C -->
+<img alt="team C image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamC/teamC.jpg" >
+
+## Founder: Alex Groening
+- Industrial Controls & Robotics
+## Co-Founder: Alec Rice
+- Marine Technology
+
+### Mentor: Kevin Clark, Critter Control Inc.
+
+<img alt="team C logo" style="float:left;width:auto;height:25px;padding:10px;" src="assets/success/2022/teamC/teamClogo.jpg" >
+
+<img alt="team C product" style="margin:auto;width:200px;height:auto;padding:10px;" src="assets/success/2022/teamC/teamCproduct.jpg" >
+
+### [AlAg Pitch Deck](assets/success/2022/teamC/teamC_pitch.pdf)
+
+</div>
+
+---
+
 ## Early NMC Sucesses in Startup
 
 
