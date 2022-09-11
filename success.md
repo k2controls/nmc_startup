@@ -10,9 +10,10 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 
 [Northwest Michigan Student Pitch Competition 2022](https://www.youtube.com/watch?v=71eK3BvdX7M&ab_channel=TCNewTech)
 
----
 
-<div><!-- team A -->
+<div style="background:#e6f2ff">
+<!-- team A -->
+<hr>
 <img alt="team A image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamA/teamA.jpg" >
 
 <h3>Founder: Shelby Bigelow</h3>
@@ -29,10 +30,10 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 <a href="assets/success/2022/teamA/teamA_pitch.pdf"><h3>Pet Tracker Pitch Deck</h3></a>
 </div>
 
----
 
-<div>
+<div style="background:lightblue">
 <!-- team B -->
+<hr>
 <img alt="team B image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamB/teamB.jpg" >
 
 <h3>Founder: Shelby Satkowiak</h3>
@@ -55,9 +56,9 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 <a href="assets/success/2022/teamB/teamB_pitch.pdf"><h3>Rod Leviora Pitch Deck</h3></a>
 </div>
 
----
-
-<div><!-- team C -->
+<div style="background:lightblue">
+<!-- team C -->
+<hr>
 <img alt="team C image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamC/teamC.jpg" >
 
 <h3>Founder: Alex Groening</h3>
@@ -78,9 +79,9 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 <a href="assets/success/2022/teamC/teamC_pitch.pdf"><h3>AlAg Pitch Deck</h3></a>
 </div>
 
----
-
-<div><!-- team D -->
+<div style="background:lightblue">
+<!-- team D -->
+<hr>
 <img alt="team D image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamD/teamD.jpg" >
 
 <h3>Founder: Holly Johnson</h3>
@@ -105,9 +106,9 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 <a href="assets/success/2022/teamD/teamD_pitch.pdf"><h3>Align-A-Line Pitch Deck</h3></a>
 </div>
 
----
-
-<div><!-- team E -->
+<div style="background:lightblue">
+<!-- team E -->
+<hr>
 <img alt="team E image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamE/teamE.jpg" >
 
 <h3>Founder: Max Streeter</h3>
