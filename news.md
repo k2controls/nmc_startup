@@ -40,8 +40,7 @@ nav_order: 6
     </div>
         <div style="padding-top:20px">
         <span style="display:inline-block;width:100px;vertical-align:top">08/08/2021</span>
-        <span style="display:inline-block;width:400px"><a href="assets/media/Drone_startups_fly_higher.pdf" target="_blank">Drone startups fly higher — after altering their paths
-</a></span>
+        <span style="display:inline-block;width:400px"><a href="assets/media/Drone_startups_fly_higher.pdf" target="_blank">Drone startups fly higher — after altering their paths</a></span>
     </div>
 </div>
 
