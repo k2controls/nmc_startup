@@ -11,7 +11,7 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 [Northwest Michigan Student Pitch Competition 2022](https://www.youtube.com/watch?v=71eK3BvdX7M&ab_channel=TCNewTech)
 
 
-<div style="background:#e6f2ff">
+<div style="background:#e6f2ff;padding:10px">
 <!-- team A -->
 <hr>
 <img alt="team A image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamA/teamA.jpg" >
@@ -31,7 +31,7 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 </div>
 
 
-<div style="background:lightblue">
+<div style="background:#ffffff;padding:10px">
 <!-- team B -->
 <hr>
 <img alt="team B image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamB/teamB.jpg" >
@@ -56,7 +56,7 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 <a href="assets/success/2022/teamB/teamB_pitch.pdf"><h3>Rod Leviora Pitch Deck</h3></a>
 </div>
 
-<div style="background:lightblue">
+<div style="background:#e6f2ff;padding:10px">
 <!-- team C -->
 <hr>
 <img alt="team C image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamC/teamC.jpg" >
@@ -79,7 +79,7 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 <a href="assets/success/2022/teamC/teamC_pitch.pdf"><h3>AlAg Pitch Deck</h3></a>
 </div>
 
-<div style="background:lightblue">
+<div style="background:#ffffff;padding:10px">
 <!-- team D -->
 <hr>
 <img alt="team D image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamD/teamD.jpg" >
@@ -106,7 +106,7 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 <a href="assets/success/2022/teamD/teamD_pitch.pdf"><h3>Align-A-Line Pitch Deck</h3></a>
 </div>
 
-<div style="background:lightblue">
+<div style="background:#e6f2ff;padding:10px">
 <!-- team E -->
 <hr>
 <img alt="team E image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamE/teamE.jpg" >
