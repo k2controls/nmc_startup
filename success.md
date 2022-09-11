@@ -6,14 +6,13 @@ nav_order: 4
 
 ## NMC Startup - Class of 2022
 
-Five teams completed the Startup Seminar special topics course in the spring of 2022. The experience culminated with pitching their product to community during Northern Michigan Startup Week. The video of student pitches is available at the YouTube link below with Russell Schindler's comments at 45:45 and NMC student pitches starting at 1:00:00.
+Five teams completed the Startup Seminar special topics course in the spring of 2022. The experience culminated with pitching their product during Northern Michigan Startup Week. The NMSW video of student pitches is available at the YouTube link below with Russell Schindler's comments at 45:45 and NMC student pitches starting at 1:00:00.
 
 [Northwest Michigan Student Pitch Competition 2022](https://www.youtube.com/watch?v=71eK3BvdX7M&ab_channel=TCNewTech)
 
 
 <div style="background:#e6f2ff;padding:10px">
 <!-- team A -->
-<hr>
 <img alt="team A image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamA/teamA.jpg" >
 
 <h3>Founder: Shelby Bigelow</h3>
@@ -33,7 +32,6 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 
 <div style="background:#ffffff;padding:10px">
 <!-- team B -->
-<hr>
 <img alt="team B image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamB/teamB.jpg" >
 
 <h3>Founder: Shelby Satkowiak</h3>
@@ -58,7 +56,6 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 
 <div style="background:#e6f2ff;padding:10px">
 <!-- team C -->
-<hr>
 <img alt="team C image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamC/teamC.jpg" >
 
 <h3>Founder: Alex Groening</h3>
@@ -81,7 +78,6 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 
 <div style="background:#ffffff;padding:10px">
 <!-- team D -->
-<hr>
 <img alt="team D image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamD/teamD.jpg" >
 
 <h3>Founder: Holly Johnson</h3>
@@ -108,7 +104,6 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 
 <div style="background:#e6f2ff;padding:10px">
 <!-- team E -->
-<hr>
 <img alt="team E image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamE/teamE.jpg" >
 
 <h3>Founder: Max Streeter</h3>
