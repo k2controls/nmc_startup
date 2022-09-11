@@ -13,7 +13,7 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 
 <div style="background:#e6f2ff;padding:10px">
 <!-- team A -->
-<img alt="team A image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamA/teamA.jpg" >
+<img alt="team A image" style="float:right;width:auto;height:250px;padding:10px;" src="assets/success/2022/teamA/teamA.jpg" >
 
 <h3>Founder: Shelby Bigelow</h3>
 <ul>
@@ -32,7 +32,7 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 
 <div style="background:#ffffff;padding:10px">
 <!-- team B -->
-<img alt="team B image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamB/teamB.jpg" >
+<img alt="team B image" style="float:right;width:auto;height:250px;padding:10px;" src="assets/success/2022/teamB/teamB.jpg" >
 
 <h3>Founder: Shelby Satkowiak</h3>
 <ul>
@@ -56,7 +56,7 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 
 <div style="background:#e6f2ff;padding:10px">
 <!-- team C -->
-<img alt="team C image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamC/teamC.jpg" >
+<img alt="team C image" style="float:right;width:auto;height:250px;padding:10px;" src="assets/success/2022/teamC/teamC.jpg" >
 
 <h3>Founder: Alex Groening</h3>
 <ul>
@@ -78,7 +78,7 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 
 <div style="background:#ffffff;padding:10px">
 <!-- team D -->
-<img alt="team D image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamD/teamD.jpg" >
+<img alt="team D image" style="float:right;width:auto;height:250px;padding:10px;" src="assets/success/2022/teamD/teamD.jpg" >
 
 <h3>Founder: Holly Johnson</h3>
 <ul>
@@ -104,7 +104,7 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 
 <div style="background:#e6f2ff;padding:10px">
 <!-- team E -->
-<img alt="team E image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamE/teamE.jpg" >
+<img alt="team E image" style="float:right;width:auto;height:250px;padding:10px;" src="assets/success/2022/teamE/teamE.jpg" >
 
 <h3>Founder: Max Streeter</h3>
 <h3>Co-Founder: John Monaghan</h3>
@@ -120,13 +120,37 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 <a href="assets/success/2022/teamE/teamE_pitch.pdf"><h3>Pitch Deck</h3></a>
 </div>
 
----
+<div style="background:##99ccff;padding:10px">
+<h2>Early NMC Successes in Startup</h2>
+</div>
+<div style="background:#e6f2ff;padding:10px">
 
 
-## Early NMC Sucesses in Startup
 
+<!-- derek -->
 
 <!--
+<img alt="derek teaching image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamA/teamA.jpg" >
+
+<h3>Derek Smith</h3>
+
+Naveego, CTO & Co-founder
+The cloud-native data integration platform with built-in data quality, data accuracy, and data governance. (Acquired by Anulytics in February 22, 2021)
+
+<ul>
+<li>Visual Communications</li> 
+<li>Art Direction</li>
+</ul> 
+<h3>Mentor: Abagail McKiernan, Spark in the Dark</h3>
+
+<img alt="team A logo" style="float:left;width:150px;height:auto;padding:10px;" src="assets/success/2022/teamA/teamAlogo.jpg" >
+
+<img alt="team A product" style="margin:auto;width:200px;height:auto;padding:10px;" src="assets/success/2022/teamA/teamAproduct.jpg" >
+
+<a href="assets/success/2022/teamA/teamA_pitch.pdf"><h3>Pet Tracker Pitch Deck</h3></a>
+</div>
+
+
 ### Derek Smith - Naveego -> Aunalytics -> AWS
 image of derek at tccode
 history
