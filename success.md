@@ -13,7 +13,9 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 ---
 
 <div style="height:220px; overflow-y:auto;">
+
 <!-- team A -->
+
 <img alt="team A image" style="float:right;width:auto;height:200px;padding:10px;" src="assets/success/2022/teamA/teamA.jpg" >
 
 ## Founder: Shelby Bigelow
@@ -24,6 +26,7 @@ Five teams completed the Startup Seminar special topics course in the spring of 
 <img alt="team A logo" style="width:auto;height:25px;padding:10px;" src="assets/success/2022/teamA/teamAlogo.jpg" >
 
 ### [Pet Tracker Pitch Deck](assets/success/2022/teamA/teamA_pitch.pdf)
+
 </div>
 
 ---
