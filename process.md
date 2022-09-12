@@ -21,7 +21,7 @@ An NMC Startup Year 2 project is proposed as the next iteration of this initiati
 -	Deliver year two of NMC Startup Seminar culminating in student project pitch competition during Spring 2023 ELI Symposium.
 -	Engage NMC Startup teams in TCNewTech pitches and Startup Week 2023.
 
-## Objectives / Deliverables
+### Objectives / Deliverables
 
 1.	Create and execute marketing and promotion plan for Fall 2022
 2.	Collaborate with NMC initiatives including ELI and NMC Innovation.
