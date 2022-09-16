@@ -12,7 +12,7 @@ nav_order: 6
 
 <div>
     <div style="padding-top:20px">
-        <span style="display:inline-block;width:100px;vertical-align:top">06/10/2022</span>
+        <span style="display:inline-block;width:100px;vertical-align:top">09/12/2022</span>
         <span style="display:inline-block;width:400px"><a href="https://20fathoms.org/founders-story-matt-goddard-and-hybrid-robotics/" target="_blank">Founder's Story: Matt Goddard and Hybrid Robotics</a></span>
     </div>
     <div style="padding-top:20px">
